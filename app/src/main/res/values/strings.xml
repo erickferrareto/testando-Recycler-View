@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">testando recycler view</string>
+    <string name="olá">Olá</string>
+    <string name="mundo">Mundo</string>
 </resources>
